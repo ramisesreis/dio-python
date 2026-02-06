@@ -22,5 +22,4 @@ print(x % y)  # Resto da divisão
 print(x ** y) # Potenciação
 
 print(10 + 5 * 2)  # A multiplicação tem precedência sobre a adição
-print((10 + 5) * 2)  # Os parênteses alteram a ordem de avaliação, a adição é feita antes da multiplicação
-
+print((10 + 5) * 3)  # Os parênteses alteram a ordem de avaliação, a adição é feita antes da multiplicação
